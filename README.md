@@ -1,5 +1,15 @@
 ## Big Sur
-Big Sur is a fun moderation bot for your Discord server!
+Big Sur is a fun moderation bot for your Discord server! It can:
+```
+Ban members
+Kick members
+Google things for you
+View Roblox profiles
+Lock channels
+Purge messages
+Mute people
+COVID-19 stats
+```
 ## Commands
 ```
 b:help               Links you to here and the invite. (alias: invite)

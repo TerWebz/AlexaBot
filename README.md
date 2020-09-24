@@ -8,7 +8,7 @@ View Roblox profiles
 Lock channels
 Purge messages
 Mute people
-COVID-19 stats
+Show you COVID-19 stats
 ```
 ## Commands
 ```

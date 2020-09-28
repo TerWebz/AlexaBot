@@ -34,5 +34,7 @@ b:eval               Evaluates a command.
 b:about              Gives bot information.
 ```
 ## Troubleshooting
+```
 My RiiTag isn't showing, what do I do?
+```
 The servers are still processing your changes or you don't have a RiiTag. You can [create one!](https://tag.rc24.xyz/)

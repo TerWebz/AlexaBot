@@ -33,3 +33,8 @@ b:8ball              Randomly selects an answer to a question.
 b:eval               Evaluates a command.
 b:about              Gives bot information.
 ```
+## Troubleshooting
+```
+Q: My RiiTag isn't showing, what do I do?
+A: The servers are still processing your changes or you don't have a RiiTag. You can [create one!](https://tag.rc24.xyz/)
+```

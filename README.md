@@ -27,7 +27,7 @@ b:unmute [user]      Umutes the specified user.
 b:ping               Pong.
 b:riitag [user]      Gets a user's RiiTag (tag.rc24.xyz)
 b:8ball              Randomly selects an answer to a question.
-b:eval               Evaluates a command.
+b:eval               Evaluates a command. (admin only)
 ```
 ## Troubleshooting
 ```
